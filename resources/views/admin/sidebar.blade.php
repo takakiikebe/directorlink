@@ -8,32 +8,32 @@
             <ul class="nav" role="tablist">
                 <li role="presentation">
                 [ Listing ]
-                    <a href="http://www.artist-link.com/admin/posts?search=洋楽">
-                        洋楽
+                    <a href="http://directors-link.com/admin/posts?search=米国">
+                        米国
                     </a>
-                    <a href="http://www.artist-link.com/admin/posts?search=インスト">
-                        ジャズ等
+                    <a href="http://directors-link.com/admin/posts?search=欧州">
+                        欧州
                     </a>
-                    <a href="http://www.artist-link.com/admin/posts?search=日本">
+                    <a href="http://directors-link.com/admin/posts?search=日本">
                         日本
                     </a>
                 </li>
                    ------------------------
                 <li role="presentation">
                     [ Genre ]
-                    <a href="http://artist-link.com/admin/posts?search=hard rock">
+                    <a href="http://directors-link.com/admin/posts?search=hard rock">
                         Hard_Rock
                     </a>            
-                    <a href="http://artist-link.com/admin/posts?search=soft rock">
+                    <a href="http://directors-link.com/admin/posts?search=soft rock">
                         Soft_Rock
                     </a>            
-                    <a href="http://artist-link.com/admin/posts?search=pops">
+                    <a href="http://directors-link.com/admin/posts?search=pops">
                         Pops
                     </a>            
-                    <a href="http://artist-link.com/admin/posts?search=rb">
+                    <a href="http://directors-link.com/admin/posts?search=rb">
                         R&B
                     </a>            
-                    <a href="http://artist-link.com/admin/posts?search=danceable">
+                    <a href="http://directors-link.com/admin/posts?search=danceable">
                         Danceable
                     </a>            
                     <a href="http://artist-link.com/admin/posts?search=jazz">
@@ -66,8 +66,8 @@
                         All Site
                     </a>
                         //     
-                     <a href="http://album-list.com/">
-                        Album
+                     <a href="http://cinema-list.com/">
+                        Cinema
                     </a>                        
                 </li>
             </ul>         
