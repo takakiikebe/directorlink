@@ -25,6 +25,14 @@ class CreatePostsTable extends Migration
             $table->string('url2')->nullable();
             $table->string('url3')->nullable();
             $table->integer('category_id')->nullable();
+            $table->integer('site_id')->nullable();
+            $table->integer('element')->nullable();
+            $table->string('code')->nullable();
+            $table->integer('alphabet')->nullable();
+            $table->string('comment')->nullable();
+            $table->string('memo')->nullable();
+            $table->string('tag')->nullable();
+
             });
     }
 
