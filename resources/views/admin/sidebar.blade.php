@@ -21,40 +21,40 @@
                    ------------------------
                 <li role="presentation">
                     [ Genre ]
-                    <a href="http://directors-link.com/admin/posts?search=hard rock">
-                        Hard_Rock
+                    <a href="http://directors-link.com/admin/posts?search=western">
+                        Western
                     </a>            
-                    <a href="http://directors-link.com/admin/posts?search=soft rock">
-                        Soft_Rock
+                    <a href="http://directors-link.com/admin/posts?search=suspense">
+                        Suspense
                     </a>            
-                    <a href="http://directors-link.com/admin/posts?search=pops">
-                        Pops
+                    <a href="http://directors-link.com/admin/posts?search=horror">
+                        Horror
                     </a>            
-                    <a href="http://directors-link.com/admin/posts?search=rb">
-                        R&B
+                    <a href="http://directors-link.com/admin/posts?search=exciting">
+                        Exciting
                     </a>            
-                    <a href="http://directors-link.com/admin/posts?search=danceable">
-                        Danceable
+                    <a href="http://directors-link.com/admin/posts?search=action">
+                        Action
                     </a>            
-                    <a href="http://artist-link.com/admin/posts?search=jazz">
-                        Jazz
+                    <a href="http://directors-link.com/admin/posts?search=social">
+                        Social
                     </a>            
-                    <a href="http://artist-link.com/admin/posts?search=new age">
-                        New_Age
+                    <a href="http://directors-link.com/admin/posts?search=comedy">
+                        Comedy
                     </a> 
-                    <a href="http://artist-link.com/admin/posts?search=kayokyoku">
-                        KayoKyoku
+                    <a href="http://directors-link.com/admin/posts?search=romantic">
+                        Romantic
                     </a>            
-                    <a href="http://artist-link.com/admin/posts?search=folk">
-                        Folk
+                    <a href="http://directors-link.com/admin/posts?search=fantastic">
+                        Fantastic
                     </a>
-                    <a href="http://artist-link.com/admin/posts?search=new music">
-                        New_Music
+                    <a href="http://directors-link.com/admin/posts?search=jidaigeki">
+                        Jidaigeki
                     </a>            
-                    <a href="http://artist-link.com/admin/posts?search=jpop">
-                        JPOP
+                    <a href="http://directors-link.com/admin/posts?search=animation">
+                        Animation
                     </a> 
-                    <a href="http://artist-link.com/admin/posts?search=music">
+                    <a href="http://directors-link.com/admin/posts?search=music">
                         Other Music
                     </a>            
                 </li>
